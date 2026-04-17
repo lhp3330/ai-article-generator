@@ -40,6 +40,5 @@ htmlcov/
 .env
 .env.local
 .python-version
-pyproject.toml
 test_main.http
 
